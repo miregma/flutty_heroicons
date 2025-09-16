@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.5
+- ReadMe Fixed.
+
+## 1.0.4
+- GitHub Repository added
+
+
 ## 1.0.3
 - Exposed filename changed to flutty_heroicons.dart
 

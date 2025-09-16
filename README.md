@@ -7,17 +7,6 @@ Includes **Solid** and **Outline** variants, exposed as `IconData` pairs through
 
 ---
 
-## 🚀 Installation
-
-Add to your `pubspec.yaml`:
-
-```yaml
-dependencies:
-  flutty_heroicons: ^1.0.2
-```
-
----
-
 ## 🎨 Usage
 
 Import the package:
