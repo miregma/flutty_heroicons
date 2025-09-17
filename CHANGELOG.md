@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.1.1
+- Solid ttf file has been renamed
+
 ## 1.1.0
 - Solid iconset has been replaces, SVG fixes
 
