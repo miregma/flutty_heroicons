@@ -1,7 +1,11 @@
 # Changelog
 
+## 1.0.6
+- Format fixes
+- Website fixed
+
 ## 1.0.5
-- ReadMe Fixed.
+- ReadMe Fixed
 
 ## 1.0.4
 - GitHub Repository added
