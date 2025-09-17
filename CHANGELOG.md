@@ -1,7 +1,10 @@
 # Changelog
 
+## 1.0.9
+- _port postfix was removed from packages
+
 ## 1.0.8
-- HeroIcon widget added.
+- HeroIcon widget added
 
 ## 1.0.7
 - Format fixes

@@ -30,10 +30,8 @@ class HeroIcons {
   /// Icon(HeroIcons.academicCap.resolve(HeroIconStyle.outline));
   /// ```
   static const academicCap = HeroIconData(
-    solid: IconData(0xe900,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe900,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe900, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe900, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `adjustments-horizontal` (solid + outline).
@@ -44,10 +42,8 @@ class HeroIcons {
   /// Icon(HeroIcons.adjustmentsHorizontal.resolve(HeroIconStyle.outline));
   /// ```
   static const adjustmentsHorizontal = HeroIconData(
-    solid: IconData(0xe901,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe901,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe901, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe901, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `adjustments-vertical` (solid + outline).
@@ -58,10 +54,8 @@ class HeroIcons {
   /// Icon(HeroIcons.adjustmentsVertical.resolve(HeroIconStyle.outline));
   /// ```
   static const adjustmentsVertical = HeroIconData(
-    solid: IconData(0xe902,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe902,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe902, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe902, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `archive-box-arrow-down` (solid + outline).
@@ -72,10 +66,8 @@ class HeroIcons {
   /// Icon(HeroIcons.archiveBoxArrowDown.resolve(HeroIconStyle.outline));
   /// ```
   static const archiveBoxArrowDown = HeroIconData(
-    solid: IconData(0xe903,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe903,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe903, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe903, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `archive-box-x-mark` (solid + outline).
@@ -86,10 +78,8 @@ class HeroIcons {
   /// Icon(HeroIcons.archiveBoxXMark.resolve(HeroIconStyle.outline));
   /// ```
   static const archiveBoxXMark = HeroIconData(
-    solid: IconData(0xe904,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe904,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe904, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe904, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `archive-box` (solid + outline).
@@ -100,10 +90,8 @@ class HeroIcons {
   /// Icon(HeroIcons.archiveBox.resolve(HeroIconStyle.outline));
   /// ```
   static const archiveBox = HeroIconData(
-    solid: IconData(0xe905,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe905,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe905, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe905, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-down-circle` (solid + outline).
@@ -114,10 +102,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowDownCircle.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowDownCircle = HeroIconData(
-    solid: IconData(0xe906,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe906,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe906, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe906, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-down-left` (solid + outline).
@@ -128,10 +114,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowDownLeft.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowDownLeft = HeroIconData(
-    solid: IconData(0xe907,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe907,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe907, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe907, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-down-on-square-stack` (solid + outline).
@@ -142,10 +126,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowDownOnSquareStack.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowDownOnSquareStack = HeroIconData(
-    solid: IconData(0xe908,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe908,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe908, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe908, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-down-on-square` (solid + outline).
@@ -156,10 +138,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowDownOnSquare.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowDownOnSquare = HeroIconData(
-    solid: IconData(0xe909,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe909,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe909, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe909, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-down-right` (solid + outline).
@@ -170,10 +150,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowDownRight.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowDownRight = HeroIconData(
-    solid: IconData(0xe90a,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe90a,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe90a, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe90a, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-down-tray` (solid + outline).
@@ -184,10 +162,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowDownTray.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowDownTray = HeroIconData(
-    solid: IconData(0xe90b,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe90b,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe90b, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe90b, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-down` (solid + outline).
@@ -198,10 +174,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowDown.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowDown = HeroIconData(
-    solid: IconData(0xe90c,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe90c,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe90c, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe90c, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-left-circle` (solid + outline).
@@ -212,10 +186,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowLeftCircle.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowLeftCircle = HeroIconData(
-    solid: IconData(0xe90d,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe90d,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe90d, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe90d, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-left-end-on-rectangle` (solid + outline).
@@ -226,10 +198,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowLeftEndOnRectangle.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowLeftEndOnRectangle = HeroIconData(
-    solid: IconData(0xe90e,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe90e,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe90e, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe90e, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-left-on-rectangle` (solid + outline).
@@ -240,10 +210,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowLeftOnRectangle.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowLeftOnRectangle = HeroIconData(
-    solid: IconData(0xe90f,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe90f,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe90f, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe90f, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-left-start-on-rectangle` (solid + outline).
@@ -254,10 +222,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowLeftStartOnRectangle.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowLeftStartOnRectangle = HeroIconData(
-    solid: IconData(0xe910,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe910,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe910, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe910, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-left` (solid + outline).
@@ -268,10 +234,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowLeft.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowLeft = HeroIconData(
-    solid: IconData(0xe911,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe911,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe911, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe911, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-long-down` (solid + outline).
@@ -282,10 +246,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowLongDown.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowLongDown = HeroIconData(
-    solid: IconData(0xe912,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe912,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe912, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe912, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-long-left` (solid + outline).
@@ -296,10 +258,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowLongLeft.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowLongLeft = HeroIconData(
-    solid: IconData(0xe913,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe913,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe913, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe913, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-long-right` (solid + outline).
@@ -310,10 +270,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowLongRight.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowLongRight = HeroIconData(
-    solid: IconData(0xe914,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe914,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe914, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe914, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-long-up` (solid + outline).
@@ -324,10 +282,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowLongUp.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowLongUp = HeroIconData(
-    solid: IconData(0xe915,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe915,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe915, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe915, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-path-rounded-square` (solid + outline).
@@ -338,10 +294,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowPathRoundedSquare.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowPathRoundedSquare = HeroIconData(
-    solid: IconData(0xe916,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe916,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe916, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe916, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-path` (solid + outline).
@@ -352,10 +306,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowPath.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowPath = HeroIconData(
-    solid: IconData(0xe917,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe917,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe917, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe917, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-right-circle` (solid + outline).
@@ -366,10 +318,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowRightCircle.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowRightCircle = HeroIconData(
-    solid: IconData(0xe918,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe918,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe918, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe918, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-right-end-on-rectangle` (solid + outline).
@@ -380,10 +330,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowRightEndOnRectangle.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowRightEndOnRectangle = HeroIconData(
-    solid: IconData(0xe919,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe919,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe919, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe919, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-right-on-rectangle` (solid + outline).
@@ -394,10 +342,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowRightOnRectangle.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowRightOnRectangle = HeroIconData(
-    solid: IconData(0xe91a,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe91a,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe91a, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe91a, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-right-start-on-rectangle` (solid + outline).
@@ -408,10 +354,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowRightStartOnRectangle.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowRightStartOnRectangle = HeroIconData(
-    solid: IconData(0xe91b,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe91b,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe91b, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe91b, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-right` (solid + outline).
@@ -422,10 +366,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowRight.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowRight = HeroIconData(
-    solid: IconData(0xe91c,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe91c,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe91c, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe91c, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-small-down` (solid + outline).
@@ -436,10 +378,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowSmallDown.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowSmallDown = HeroIconData(
-    solid: IconData(0xe91d,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe91d,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe91d, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe91d, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-small-left` (solid + outline).
@@ -450,10 +390,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowSmallLeft.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowSmallLeft = HeroIconData(
-    solid: IconData(0xe91e,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe91e,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe91e, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe91e, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-small-right` (solid + outline).
@@ -464,10 +402,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowSmallRight.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowSmallRight = HeroIconData(
-    solid: IconData(0xe91f,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe91f,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe91f, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe91f, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-small-up` (solid + outline).
@@ -478,10 +414,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowSmallUp.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowSmallUp = HeroIconData(
-    solid: IconData(0xe920,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe920,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe920, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe920, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-top-right-on-square` (solid + outline).
@@ -492,10 +426,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowTopRightOnSquare.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowTopRightOnSquare = HeroIconData(
-    solid: IconData(0xe921,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe921,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe921, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe921, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-trending-down` (solid + outline).
@@ -506,10 +438,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowTrendingDown.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowTrendingDown = HeroIconData(
-    solid: IconData(0xe922,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe922,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe922, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe922, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-trending-up` (solid + outline).
@@ -520,10 +450,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowTrendingUp.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowTrendingUp = HeroIconData(
-    solid: IconData(0xe923,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe923,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe923, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe923, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-turn-down-left` (solid + outline).
@@ -534,10 +462,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowTurnDownLeft.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowTurnDownLeft = HeroIconData(
-    solid: IconData(0xe924,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe924,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe924, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe924, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-turn-down-right` (solid + outline).
@@ -548,10 +474,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowTurnDownRight.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowTurnDownRight = HeroIconData(
-    solid: IconData(0xe925,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe925,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe925, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe925, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-turn-left-down` (solid + outline).
@@ -562,10 +486,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowTurnLeftDown.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowTurnLeftDown = HeroIconData(
-    solid: IconData(0xe926,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe926,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe926, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe926, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-turn-left-up` (solid + outline).
@@ -576,10 +498,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowTurnLeftUp.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowTurnLeftUp = HeroIconData(
-    solid: IconData(0xe927,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe927,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe927, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe927, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-turn-right-down` (solid + outline).
@@ -590,10 +510,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowTurnRightDown.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowTurnRightDown = HeroIconData(
-    solid: IconData(0xe928,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe928,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe928, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe928, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-turn-right-up` (solid + outline).
@@ -604,10 +522,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowTurnRightUp.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowTurnRightUp = HeroIconData(
-    solid: IconData(0xe929,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe929,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe929, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe929, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-turn-up-left` (solid + outline).
@@ -618,10 +534,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowTurnUpLeft.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowTurnUpLeft = HeroIconData(
-    solid: IconData(0xe92a,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe92a,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe92a, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe92a, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-turn-up-right` (solid + outline).
@@ -632,10 +546,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowTurnUpRight.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowTurnUpRight = HeroIconData(
-    solid: IconData(0xe92b,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe92b,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe92b, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe92b, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-up-circle` (solid + outline).
@@ -646,10 +558,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowUpCircle.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowUpCircle = HeroIconData(
-    solid: IconData(0xe92c,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe92c,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe92c, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe92c, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-up-left` (solid + outline).
@@ -660,10 +570,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowUpLeft.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowUpLeft = HeroIconData(
-    solid: IconData(0xe92d,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe92d,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe92d, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe92d, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-up-on-square-stack` (solid + outline).
@@ -674,10 +582,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowUpOnSquareStack.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowUpOnSquareStack = HeroIconData(
-    solid: IconData(0xe92e,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe92e,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe92e, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe92e, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-up-on-square` (solid + outline).
@@ -688,10 +594,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowUpOnSquare.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowUpOnSquare = HeroIconData(
-    solid: IconData(0xe92f,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe92f,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe92f, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe92f, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-up-right` (solid + outline).
@@ -702,10 +606,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowUpRight.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowUpRight = HeroIconData(
-    solid: IconData(0xe930,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe930,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe930, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe930, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-up-tray` (solid + outline).
@@ -716,10 +618,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowUpTray.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowUpTray = HeroIconData(
-    solid: IconData(0xe931,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe931,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe931, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe931, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-up` (solid + outline).
@@ -730,10 +630,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowUp.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowUp = HeroIconData(
-    solid: IconData(0xe932,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe932,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe932, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe932, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-uturn-down` (solid + outline).
@@ -744,10 +642,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowUturnDown.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowUturnDown = HeroIconData(
-    solid: IconData(0xe933,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe933,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe933, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe933, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-uturn-left` (solid + outline).
@@ -758,10 +654,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowUturnLeft.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowUturnLeft = HeroIconData(
-    solid: IconData(0xe934,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe934,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe934, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe934, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-uturn-right` (solid + outline).
@@ -772,10 +666,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowUturnRight.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowUturnRight = HeroIconData(
-    solid: IconData(0xe935,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe935,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe935, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe935, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrow-uturn-up` (solid + outline).
@@ -786,10 +678,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowUturnUp.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowUturnUp = HeroIconData(
-    solid: IconData(0xe936,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe936,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe936, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe936, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrows-pointing-in` (solid + outline).
@@ -800,10 +690,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowsPointingIn.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowsPointingIn = HeroIconData(
-    solid: IconData(0xe937,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe937,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe937, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe937, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrows-pointing-out` (solid + outline).
@@ -814,10 +702,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowsPointingOut.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowsPointingOut = HeroIconData(
-    solid: IconData(0xe938,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe938,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe938, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe938, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrows-right-left` (solid + outline).
@@ -828,10 +714,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowsRightLeft.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowsRightLeft = HeroIconData(
-    solid: IconData(0xe939,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe939,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe939, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe939, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `arrows-up-down` (solid + outline).
@@ -842,10 +726,8 @@ class HeroIcons {
   /// Icon(HeroIcons.arrowsUpDown.resolve(HeroIconStyle.outline));
   /// ```
   static const arrowsUpDown = HeroIconData(
-    solid: IconData(0xe93a,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe93a,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe93a, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe93a, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `at-symbol` (solid + outline).
@@ -856,10 +738,8 @@ class HeroIcons {
   /// Icon(HeroIcons.atSymbol.resolve(HeroIconStyle.outline));
   /// ```
   static const atSymbol = HeroIconData(
-    solid: IconData(0xe93b,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe93b,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe93b, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe93b, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `backspace` (solid + outline).
@@ -870,10 +750,8 @@ class HeroIcons {
   /// Icon(HeroIcons.backspace.resolve(HeroIconStyle.outline));
   /// ```
   static const backspace = HeroIconData(
-    solid: IconData(0xe93c,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe93c,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe93c, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe93c, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `backward` (solid + outline).
@@ -884,10 +762,8 @@ class HeroIcons {
   /// Icon(HeroIcons.backward.resolve(HeroIconStyle.outline));
   /// ```
   static const backward = HeroIconData(
-    solid: IconData(0xe93d,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe93d,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe93d, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe93d, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `banknotes` (solid + outline).
@@ -898,10 +774,8 @@ class HeroIcons {
   /// Icon(HeroIcons.banknotes.resolve(HeroIconStyle.outline));
   /// ```
   static const banknotes = HeroIconData(
-    solid: IconData(0xe93e,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe93e,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe93e, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe93e, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `bars-2` (solid + outline).
@@ -912,10 +786,8 @@ class HeroIcons {
   /// Icon(HeroIcons.bars2.resolve(HeroIconStyle.outline));
   /// ```
   static const bars2 = HeroIconData(
-    solid: IconData(0xe93f,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe93f,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe93f, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe93f, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `bars-3-bottom-left` (solid + outline).
@@ -926,10 +798,8 @@ class HeroIcons {
   /// Icon(HeroIcons.bars3BottomLeft.resolve(HeroIconStyle.outline));
   /// ```
   static const bars3BottomLeft = HeroIconData(
-    solid: IconData(0xe940,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe940,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe940, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe940, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `bars-3-bottom-right` (solid + outline).
@@ -940,10 +810,8 @@ class HeroIcons {
   /// Icon(HeroIcons.bars3BottomRight.resolve(HeroIconStyle.outline));
   /// ```
   static const bars3BottomRight = HeroIconData(
-    solid: IconData(0xe941,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe941,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe941, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe941, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `bars-3-center-left` (solid + outline).
@@ -954,10 +822,8 @@ class HeroIcons {
   /// Icon(HeroIcons.bars3CenterLeft.resolve(HeroIconStyle.outline));
   /// ```
   static const bars3CenterLeft = HeroIconData(
-    solid: IconData(0xe942,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe942,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe942, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe942, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `bars-3` (solid + outline).
@@ -968,10 +834,8 @@ class HeroIcons {
   /// Icon(HeroIcons.bars3.resolve(HeroIconStyle.outline));
   /// ```
   static const bars3 = HeroIconData(
-    solid: IconData(0xe943,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe943,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe943, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe943, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `bars-4` (solid + outline).
@@ -982,10 +846,8 @@ class HeroIcons {
   /// Icon(HeroIcons.bars4.resolve(HeroIconStyle.outline));
   /// ```
   static const bars4 = HeroIconData(
-    solid: IconData(0xe944,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe944,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe944, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe944, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `bars-arrow-down` (solid + outline).
@@ -996,10 +858,8 @@ class HeroIcons {
   /// Icon(HeroIcons.barsArrowDown.resolve(HeroIconStyle.outline));
   /// ```
   static const barsArrowDown = HeroIconData(
-    solid: IconData(0xe945,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe945,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe945, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe945, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `bars-arrow-up` (solid + outline).
@@ -1010,10 +870,8 @@ class HeroIcons {
   /// Icon(HeroIcons.barsArrowUp.resolve(HeroIconStyle.outline));
   /// ```
   static const barsArrowUp = HeroIconData(
-    solid: IconData(0xe946,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe946,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe946, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe946, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `battery-0` (solid + outline).
@@ -1024,10 +882,8 @@ class HeroIcons {
   /// Icon(HeroIcons.battery0.resolve(HeroIconStyle.outline));
   /// ```
   static const battery0 = HeroIconData(
-    solid: IconData(0xe947,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe947,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe947, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe947, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `battery-50` (solid + outline).
@@ -1038,10 +894,8 @@ class HeroIcons {
   /// Icon(HeroIcons.battery50.resolve(HeroIconStyle.outline));
   /// ```
   static const battery50 = HeroIconData(
-    solid: IconData(0xe948,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe948,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe948, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe948, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `battery-100` (solid + outline).
@@ -1052,10 +906,8 @@ class HeroIcons {
   /// Icon(HeroIcons.battery100.resolve(HeroIconStyle.outline));
   /// ```
   static const battery100 = HeroIconData(
-    solid: IconData(0xe949,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe949,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe949, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe949, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `beaker` (solid + outline).
@@ -1066,10 +918,8 @@ class HeroIcons {
   /// Icon(HeroIcons.beaker.resolve(HeroIconStyle.outline));
   /// ```
   static const beaker = HeroIconData(
-    solid: IconData(0xe94a,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe94a,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe94a, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe94a, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `bell-alert` (solid + outline).
@@ -1080,10 +930,8 @@ class HeroIcons {
   /// Icon(HeroIcons.bellAlert.resolve(HeroIconStyle.outline));
   /// ```
   static const bellAlert = HeroIconData(
-    solid: IconData(0xe94b,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe94b,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe94b, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe94b, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `bell-slash` (solid + outline).
@@ -1094,10 +942,8 @@ class HeroIcons {
   /// Icon(HeroIcons.bellSlash.resolve(HeroIconStyle.outline));
   /// ```
   static const bellSlash = HeroIconData(
-    solid: IconData(0xe94c,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe94c,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe94c, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe94c, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `bell-snooze` (solid + outline).
@@ -1108,10 +954,8 @@ class HeroIcons {
   /// Icon(HeroIcons.bellSnooze.resolve(HeroIconStyle.outline));
   /// ```
   static const bellSnooze = HeroIconData(
-    solid: IconData(0xe94d,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe94d,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe94d, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe94d, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `bell` (solid + outline).
@@ -1122,10 +966,8 @@ class HeroIcons {
   /// Icon(HeroIcons.bell.resolve(HeroIconStyle.outline));
   /// ```
   static const bell = HeroIconData(
-    solid: IconData(0xe94e,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe94e,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe94e, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe94e, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `bold` (solid + outline).
@@ -1136,10 +978,8 @@ class HeroIcons {
   /// Icon(HeroIcons.bold.resolve(HeroIconStyle.outline));
   /// ```
   static const bold = HeroIconData(
-    solid: IconData(0xe94f,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe94f,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe94f, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe94f, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `bolt-slash` (solid + outline).
@@ -1150,10 +990,8 @@ class HeroIcons {
   /// Icon(HeroIcons.boltSlash.resolve(HeroIconStyle.outline));
   /// ```
   static const boltSlash = HeroIconData(
-    solid: IconData(0xe950,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe950,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe950, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe950, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `bolt` (solid + outline).
@@ -1164,10 +1002,8 @@ class HeroIcons {
   /// Icon(HeroIcons.bolt.resolve(HeroIconStyle.outline));
   /// ```
   static const bolt = HeroIconData(
-    solid: IconData(0xe951,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe951,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe951, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe951, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `book-open` (solid + outline).
@@ -1178,10 +1014,8 @@ class HeroIcons {
   /// Icon(HeroIcons.bookOpen.resolve(HeroIconStyle.outline));
   /// ```
   static const bookOpen = HeroIconData(
-    solid: IconData(0xe952,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe952,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe952, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe952, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `bookmark-slash` (solid + outline).
@@ -1192,10 +1026,8 @@ class HeroIcons {
   /// Icon(HeroIcons.bookmarkSlash.resolve(HeroIconStyle.outline));
   /// ```
   static const bookmarkSlash = HeroIconData(
-    solid: IconData(0xe953,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe953,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe953, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe953, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `bookmark-square` (solid + outline).
@@ -1206,10 +1038,8 @@ class HeroIcons {
   /// Icon(HeroIcons.bookmarkSquare.resolve(HeroIconStyle.outline));
   /// ```
   static const bookmarkSquare = HeroIconData(
-    solid: IconData(0xe954,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe954,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe954, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe954, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `bookmark` (solid + outline).
@@ -1220,10 +1050,8 @@ class HeroIcons {
   /// Icon(HeroIcons.bookmark.resolve(HeroIconStyle.outline));
   /// ```
   static const bookmark = HeroIconData(
-    solid: IconData(0xe955,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe955,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe955, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe955, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `briefcase` (solid + outline).
@@ -1234,10 +1062,8 @@ class HeroIcons {
   /// Icon(HeroIcons.briefcase.resolve(HeroIconStyle.outline));
   /// ```
   static const briefcase = HeroIconData(
-    solid: IconData(0xe956,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe956,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe956, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe956, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `bug-ant` (solid + outline).
@@ -1248,10 +1074,8 @@ class HeroIcons {
   /// Icon(HeroIcons.bugAnt.resolve(HeroIconStyle.outline));
   /// ```
   static const bugAnt = HeroIconData(
-    solid: IconData(0xe957,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe957,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe957, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe957, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `building-library` (solid + outline).
@@ -1262,10 +1086,8 @@ class HeroIcons {
   /// Icon(HeroIcons.buildingLibrary.resolve(HeroIconStyle.outline));
   /// ```
   static const buildingLibrary = HeroIconData(
-    solid: IconData(0xe958,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe958,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe958, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe958, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `building-office-2` (solid + outline).
@@ -1276,10 +1098,8 @@ class HeroIcons {
   /// Icon(HeroIcons.buildingOffice2.resolve(HeroIconStyle.outline));
   /// ```
   static const buildingOffice2 = HeroIconData(
-    solid: IconData(0xe959,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe959,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe959, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe959, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `building-office` (solid + outline).
@@ -1290,10 +1110,8 @@ class HeroIcons {
   /// Icon(HeroIcons.buildingOffice.resolve(HeroIconStyle.outline));
   /// ```
   static const buildingOffice = HeroIconData(
-    solid: IconData(0xe95a,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe95a,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe95a, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe95a, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `building-storefront` (solid + outline).
@@ -1304,10 +1122,8 @@ class HeroIcons {
   /// Icon(HeroIcons.buildingStorefront.resolve(HeroIconStyle.outline));
   /// ```
   static const buildingStorefront = HeroIconData(
-    solid: IconData(0xe95b,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe95b,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe95b, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe95b, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `cake` (solid + outline).
@@ -1318,10 +1134,8 @@ class HeroIcons {
   /// Icon(HeroIcons.cake.resolve(HeroIconStyle.outline));
   /// ```
   static const cake = HeroIconData(
-    solid: IconData(0xe95c,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe95c,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe95c, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe95c, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `calculator` (solid + outline).
@@ -1332,10 +1146,8 @@ class HeroIcons {
   /// Icon(HeroIcons.calculator.resolve(HeroIconStyle.outline));
   /// ```
   static const calculator = HeroIconData(
-    solid: IconData(0xe95d,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe95d,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe95d, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe95d, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `calendar-date-range` (solid + outline).
@@ -1346,10 +1158,8 @@ class HeroIcons {
   /// Icon(HeroIcons.calendarDateRange.resolve(HeroIconStyle.outline));
   /// ```
   static const calendarDateRange = HeroIconData(
-    solid: IconData(0xe95e,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe95e,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe95e, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe95e, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `calendar-days` (solid + outline).
@@ -1360,10 +1170,8 @@ class HeroIcons {
   /// Icon(HeroIcons.calendarDays.resolve(HeroIconStyle.outline));
   /// ```
   static const calendarDays = HeroIconData(
-    solid: IconData(0xe95f,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe95f,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe95f, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe95f, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `calendar` (solid + outline).
@@ -1374,10 +1182,8 @@ class HeroIcons {
   /// Icon(HeroIcons.calendar.resolve(HeroIconStyle.outline));
   /// ```
   static const calendar = HeroIconData(
-    solid: IconData(0xe960,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe960,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe960, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe960, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `camera` (solid + outline).
@@ -1388,10 +1194,8 @@ class HeroIcons {
   /// Icon(HeroIcons.camera.resolve(HeroIconStyle.outline));
   /// ```
   static const camera = HeroIconData(
-    solid: IconData(0xe961,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe961,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe961, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe961, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `chart-bar-square` (solid + outline).
@@ -1402,10 +1206,8 @@ class HeroIcons {
   /// Icon(HeroIcons.chartBarSquare.resolve(HeroIconStyle.outline));
   /// ```
   static const chartBarSquare = HeroIconData(
-    solid: IconData(0xe962,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe962,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe962, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe962, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `chart-bar` (solid + outline).
@@ -1416,10 +1218,8 @@ class HeroIcons {
   /// Icon(HeroIcons.chartBar.resolve(HeroIconStyle.outline));
   /// ```
   static const chartBar = HeroIconData(
-    solid: IconData(0xe963,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe963,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe963, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe963, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `chart-pie` (solid + outline).
@@ -1430,10 +1230,8 @@ class HeroIcons {
   /// Icon(HeroIcons.chartPie.resolve(HeroIconStyle.outline));
   /// ```
   static const chartPie = HeroIconData(
-    solid: IconData(0xe964,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe964,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe964, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe964, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `chat-bubble-bottom-center-text` (solid + outline).
@@ -1444,10 +1242,8 @@ class HeroIcons {
   /// Icon(HeroIcons.chatBubbleBottomCenterText.resolve(HeroIconStyle.outline));
   /// ```
   static const chatBubbleBottomCenterText = HeroIconData(
-    solid: IconData(0xe965,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe965,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe965, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe965, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `chat-bubble-bottom-center` (solid + outline).
@@ -1458,10 +1254,8 @@ class HeroIcons {
   /// Icon(HeroIcons.chatBubbleBottomCenter.resolve(HeroIconStyle.outline));
   /// ```
   static const chatBubbleBottomCenter = HeroIconData(
-    solid: IconData(0xe966,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe966,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe966, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe966, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `chat-bubble-left-ellipsis` (solid + outline).
@@ -1472,10 +1266,8 @@ class HeroIcons {
   /// Icon(HeroIcons.chatBubbleLeftEllipsis.resolve(HeroIconStyle.outline));
   /// ```
   static const chatBubbleLeftEllipsis = HeroIconData(
-    solid: IconData(0xe967,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe967,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe967, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe967, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `chat-bubble-left-right` (solid + outline).
@@ -1486,10 +1278,8 @@ class HeroIcons {
   /// Icon(HeroIcons.chatBubbleLeftRight.resolve(HeroIconStyle.outline));
   /// ```
   static const chatBubbleLeftRight = HeroIconData(
-    solid: IconData(0xe968,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe968,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe968, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe968, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `chat-bubble-left` (solid + outline).
@@ -1500,10 +1290,8 @@ class HeroIcons {
   /// Icon(HeroIcons.chatBubbleLeft.resolve(HeroIconStyle.outline));
   /// ```
   static const chatBubbleLeft = HeroIconData(
-    solid: IconData(0xe969,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe969,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe969, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe969, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `chat-bubble-oval-left-ellipsis` (solid + outline).
@@ -1514,10 +1302,8 @@ class HeroIcons {
   /// Icon(HeroIcons.chatBubbleOvalLeftEllipsis.resolve(HeroIconStyle.outline));
   /// ```
   static const chatBubbleOvalLeftEllipsis = HeroIconData(
-    solid: IconData(0xe96a,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe96a,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe96a, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe96a, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `chat-bubble-oval-left` (solid + outline).
@@ -1528,10 +1314,8 @@ class HeroIcons {
   /// Icon(HeroIcons.chatBubbleOvalLeft.resolve(HeroIconStyle.outline));
   /// ```
   static const chatBubbleOvalLeft = HeroIconData(
-    solid: IconData(0xe96b,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe96b,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe96b, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe96b, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `check-badge` (solid + outline).
@@ -1542,10 +1326,8 @@ class HeroIcons {
   /// Icon(HeroIcons.checkBadge.resolve(HeroIconStyle.outline));
   /// ```
   static const checkBadge = HeroIconData(
-    solid: IconData(0xe96c,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe96c,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe96c, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe96c, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `check-circle` (solid + outline).
@@ -1556,10 +1338,8 @@ class HeroIcons {
   /// Icon(HeroIcons.checkCircle.resolve(HeroIconStyle.outline));
   /// ```
   static const checkCircle = HeroIconData(
-    solid: IconData(0xe96d,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe96d,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe96d, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe96d, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `check` (solid + outline).
@@ -1570,10 +1350,8 @@ class HeroIcons {
   /// Icon(HeroIcons.check.resolve(HeroIconStyle.outline));
   /// ```
   static const check = HeroIconData(
-    solid: IconData(0xe96e,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe96e,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe96e, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe96e, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `chevron-double-down` (solid + outline).
@@ -1584,10 +1362,8 @@ class HeroIcons {
   /// Icon(HeroIcons.chevronDoubleDown.resolve(HeroIconStyle.outline));
   /// ```
   static const chevronDoubleDown = HeroIconData(
-    solid: IconData(0xe96f,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe96f,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe96f, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe96f, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `chevron-double-left` (solid + outline).
@@ -1598,10 +1374,8 @@ class HeroIcons {
   /// Icon(HeroIcons.chevronDoubleLeft.resolve(HeroIconStyle.outline));
   /// ```
   static const chevronDoubleLeft = HeroIconData(
-    solid: IconData(0xe970,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe970,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe970, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe970, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `chevron-double-right` (solid + outline).
@@ -1612,10 +1386,8 @@ class HeroIcons {
   /// Icon(HeroIcons.chevronDoubleRight.resolve(HeroIconStyle.outline));
   /// ```
   static const chevronDoubleRight = HeroIconData(
-    solid: IconData(0xe971,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe971,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe971, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe971, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `chevron-double-up` (solid + outline).
@@ -1626,10 +1398,8 @@ class HeroIcons {
   /// Icon(HeroIcons.chevronDoubleUp.resolve(HeroIconStyle.outline));
   /// ```
   static const chevronDoubleUp = HeroIconData(
-    solid: IconData(0xe972,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe972,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe972, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe972, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `chevron-down` (solid + outline).
@@ -1640,10 +1410,8 @@ class HeroIcons {
   /// Icon(HeroIcons.chevronDown.resolve(HeroIconStyle.outline));
   /// ```
   static const chevronDown = HeroIconData(
-    solid: IconData(0xe973,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe973,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe973, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe973, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `chevron-left` (solid + outline).
@@ -1654,10 +1422,8 @@ class HeroIcons {
   /// Icon(HeroIcons.chevronLeft.resolve(HeroIconStyle.outline));
   /// ```
   static const chevronLeft = HeroIconData(
-    solid: IconData(0xe974,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe974,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe974, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe974, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `chevron-right` (solid + outline).
@@ -1668,10 +1434,8 @@ class HeroIcons {
   /// Icon(HeroIcons.chevronRight.resolve(HeroIconStyle.outline));
   /// ```
   static const chevronRight = HeroIconData(
-    solid: IconData(0xe975,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe975,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe975, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe975, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `chevron-up-down` (solid + outline).
@@ -1682,10 +1446,8 @@ class HeroIcons {
   /// Icon(HeroIcons.chevronUpDown.resolve(HeroIconStyle.outline));
   /// ```
   static const chevronUpDown = HeroIconData(
-    solid: IconData(0xe976,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe976,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe976, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe976, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `chevron-up` (solid + outline).
@@ -1696,10 +1458,8 @@ class HeroIcons {
   /// Icon(HeroIcons.chevronUp.resolve(HeroIconStyle.outline));
   /// ```
   static const chevronUp = HeroIconData(
-    solid: IconData(0xe977,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe977,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe977, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe977, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `circle-stack` (solid + outline).
@@ -1710,10 +1470,8 @@ class HeroIcons {
   /// Icon(HeroIcons.circleStack.resolve(HeroIconStyle.outline));
   /// ```
   static const circleStack = HeroIconData(
-    solid: IconData(0xe978,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe978,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe978, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe978, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `clipboard-document-check` (solid + outline).
@@ -1724,10 +1482,8 @@ class HeroIcons {
   /// Icon(HeroIcons.clipboardDocumentCheck.resolve(HeroIconStyle.outline));
   /// ```
   static const clipboardDocumentCheck = HeroIconData(
-    solid: IconData(0xe979,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe979,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe979, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe979, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `clipboard-document-list` (solid + outline).
@@ -1738,10 +1494,8 @@ class HeroIcons {
   /// Icon(HeroIcons.clipboardDocumentList.resolve(HeroIconStyle.outline));
   /// ```
   static const clipboardDocumentList = HeroIconData(
-    solid: IconData(0xe97a,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe97a,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe97a, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe97a, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `clipboard-document` (solid + outline).
@@ -1752,10 +1506,8 @@ class HeroIcons {
   /// Icon(HeroIcons.clipboardDocument.resolve(HeroIconStyle.outline));
   /// ```
   static const clipboardDocument = HeroIconData(
-    solid: IconData(0xe97b,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe97b,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe97b, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe97b, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `clipboard` (solid + outline).
@@ -1766,10 +1518,8 @@ class HeroIcons {
   /// Icon(HeroIcons.clipboard.resolve(HeroIconStyle.outline));
   /// ```
   static const clipboard = HeroIconData(
-    solid: IconData(0xe97c,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe97c,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe97c, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe97c, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `clock` (solid + outline).
@@ -1780,10 +1530,8 @@ class HeroIcons {
   /// Icon(HeroIcons.clock.resolve(HeroIconStyle.outline));
   /// ```
   static const clock = HeroIconData(
-    solid: IconData(0xe97d,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe97d,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe97d, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe97d, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `cloud-arrow-down` (solid + outline).
@@ -1794,10 +1542,8 @@ class HeroIcons {
   /// Icon(HeroIcons.cloudArrowDown.resolve(HeroIconStyle.outline));
   /// ```
   static const cloudArrowDown = HeroIconData(
-    solid: IconData(0xe97e,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe97e,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe97e, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe97e, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `cloud-arrow-up` (solid + outline).
@@ -1808,10 +1554,8 @@ class HeroIcons {
   /// Icon(HeroIcons.cloudArrowUp.resolve(HeroIconStyle.outline));
   /// ```
   static const cloudArrowUp = HeroIconData(
-    solid: IconData(0xe97f,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe97f,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe97f, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe97f, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `cloud` (solid + outline).
@@ -1822,10 +1566,8 @@ class HeroIcons {
   /// Icon(HeroIcons.cloud.resolve(HeroIconStyle.outline));
   /// ```
   static const cloud = HeroIconData(
-    solid: IconData(0xe980,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe980,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe980, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe980, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `code-bracket-square` (solid + outline).
@@ -1836,10 +1578,8 @@ class HeroIcons {
   /// Icon(HeroIcons.codeBracketSquare.resolve(HeroIconStyle.outline));
   /// ```
   static const codeBracketSquare = HeroIconData(
-    solid: IconData(0xe981,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe981,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe981, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe981, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `code-bracket` (solid + outline).
@@ -1850,10 +1590,8 @@ class HeroIcons {
   /// Icon(HeroIcons.codeBracket.resolve(HeroIconStyle.outline));
   /// ```
   static const codeBracket = HeroIconData(
-    solid: IconData(0xe982,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe982,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe982, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe982, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `cog-6-tooth` (solid + outline).
@@ -1864,10 +1602,8 @@ class HeroIcons {
   /// Icon(HeroIcons.cog6Tooth.resolve(HeroIconStyle.outline));
   /// ```
   static const cog6Tooth = HeroIconData(
-    solid: IconData(0xe983,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe983,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe983, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe983, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `cog-8-tooth` (solid + outline).
@@ -1878,10 +1614,8 @@ class HeroIcons {
   /// Icon(HeroIcons.cog8Tooth.resolve(HeroIconStyle.outline));
   /// ```
   static const cog8Tooth = HeroIconData(
-    solid: IconData(0xe984,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe984,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe984, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe984, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `cog` (solid + outline).
@@ -1892,10 +1626,8 @@ class HeroIcons {
   /// Icon(HeroIcons.cog.resolve(HeroIconStyle.outline));
   /// ```
   static const cog = HeroIconData(
-    solid: IconData(0xe985,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe985,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe985, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe985, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `command-line` (solid + outline).
@@ -1906,10 +1638,8 @@ class HeroIcons {
   /// Icon(HeroIcons.commandLine.resolve(HeroIconStyle.outline));
   /// ```
   static const commandLine = HeroIconData(
-    solid: IconData(0xe986,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe986,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe986, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe986, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `computer-desktop` (solid + outline).
@@ -1920,10 +1650,8 @@ class HeroIcons {
   /// Icon(HeroIcons.computerDesktop.resolve(HeroIconStyle.outline));
   /// ```
   static const computerDesktop = HeroIconData(
-    solid: IconData(0xe987,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe987,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe987, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe987, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `cpu-chip` (solid + outline).
@@ -1934,10 +1662,8 @@ class HeroIcons {
   /// Icon(HeroIcons.cpuChip.resolve(HeroIconStyle.outline));
   /// ```
   static const cpuChip = HeroIconData(
-    solid: IconData(0xe988,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe988,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe988, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe988, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `credit-card` (solid + outline).
@@ -1948,10 +1674,8 @@ class HeroIcons {
   /// Icon(HeroIcons.creditCard.resolve(HeroIconStyle.outline));
   /// ```
   static const creditCard = HeroIconData(
-    solid: IconData(0xe989,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe989,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe989, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe989, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `cube-transparent` (solid + outline).
@@ -1962,10 +1686,8 @@ class HeroIcons {
   /// Icon(HeroIcons.cubeTransparent.resolve(HeroIconStyle.outline));
   /// ```
   static const cubeTransparent = HeroIconData(
-    solid: IconData(0xe98a,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe98a,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe98a, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe98a, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `cube` (solid + outline).
@@ -1976,10 +1698,8 @@ class HeroIcons {
   /// Icon(HeroIcons.cube.resolve(HeroIconStyle.outline));
   /// ```
   static const cube = HeroIconData(
-    solid: IconData(0xe98b,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe98b,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe98b, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe98b, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `currency-bangladeshi` (solid + outline).
@@ -1990,10 +1710,8 @@ class HeroIcons {
   /// Icon(HeroIcons.currencyBangladeshi.resolve(HeroIconStyle.outline));
   /// ```
   static const currencyBangladeshi = HeroIconData(
-    solid: IconData(0xe98c,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe98c,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe98c, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe98c, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `currency-dollar` (solid + outline).
@@ -2004,10 +1722,8 @@ class HeroIcons {
   /// Icon(HeroIcons.currencyDollar.resolve(HeroIconStyle.outline));
   /// ```
   static const currencyDollar = HeroIconData(
-    solid: IconData(0xe98d,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe98d,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe98d, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe98d, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `currency-euro` (solid + outline).
@@ -2018,10 +1734,8 @@ class HeroIcons {
   /// Icon(HeroIcons.currencyEuro.resolve(HeroIconStyle.outline));
   /// ```
   static const currencyEuro = HeroIconData(
-    solid: IconData(0xe98e,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe98e,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe98e, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe98e, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `currency-pound` (solid + outline).
@@ -2032,10 +1746,8 @@ class HeroIcons {
   /// Icon(HeroIcons.currencyPound.resolve(HeroIconStyle.outline));
   /// ```
   static const currencyPound = HeroIconData(
-    solid: IconData(0xe98f,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe98f,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe98f, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe98f, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `currency-rupee` (solid + outline).
@@ -2046,10 +1758,8 @@ class HeroIcons {
   /// Icon(HeroIcons.currencyRupee.resolve(HeroIconStyle.outline));
   /// ```
   static const currencyRupee = HeroIconData(
-    solid: IconData(0xe990,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe990,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe990, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe990, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `currency-yen` (solid + outline).
@@ -2060,10 +1770,8 @@ class HeroIcons {
   /// Icon(HeroIcons.currencyYen.resolve(HeroIconStyle.outline));
   /// ```
   static const currencyYen = HeroIconData(
-    solid: IconData(0xe991,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe991,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe991, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe991, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `cursor-arrow-rays` (solid + outline).
@@ -2074,10 +1782,8 @@ class HeroIcons {
   /// Icon(HeroIcons.cursorArrowRays.resolve(HeroIconStyle.outline));
   /// ```
   static const cursorArrowRays = HeroIconData(
-    solid: IconData(0xe992,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe992,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe992, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe992, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `cursor-arrow-ripple` (solid + outline).
@@ -2088,10 +1794,8 @@ class HeroIcons {
   /// Icon(HeroIcons.cursorArrowRipple.resolve(HeroIconStyle.outline));
   /// ```
   static const cursorArrowRipple = HeroIconData(
-    solid: IconData(0xe993,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe993,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe993, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe993, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `device-phone-mobile` (solid + outline).
@@ -2102,10 +1806,8 @@ class HeroIcons {
   /// Icon(HeroIcons.devicePhoneMobile.resolve(HeroIconStyle.outline));
   /// ```
   static const devicePhoneMobile = HeroIconData(
-    solid: IconData(0xe994,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe994,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe994, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe994, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `device-tablet` (solid + outline).
@@ -2116,10 +1818,8 @@ class HeroIcons {
   /// Icon(HeroIcons.deviceTablet.resolve(HeroIconStyle.outline));
   /// ```
   static const deviceTablet = HeroIconData(
-    solid: IconData(0xe995,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe995,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe995, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe995, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `divide` (solid + outline).
@@ -2130,10 +1830,8 @@ class HeroIcons {
   /// Icon(HeroIcons.divide.resolve(HeroIconStyle.outline));
   /// ```
   static const divide = HeroIconData(
-    solid: IconData(0xe996,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe996,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe996, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe996, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `document-arrow-down` (solid + outline).
@@ -2144,10 +1842,8 @@ class HeroIcons {
   /// Icon(HeroIcons.documentArrowDown.resolve(HeroIconStyle.outline));
   /// ```
   static const documentArrowDown = HeroIconData(
-    solid: IconData(0xe997,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe997,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe997, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe997, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `document-arrow-up` (solid + outline).
@@ -2158,10 +1854,8 @@ class HeroIcons {
   /// Icon(HeroIcons.documentArrowUp.resolve(HeroIconStyle.outline));
   /// ```
   static const documentArrowUp = HeroIconData(
-    solid: IconData(0xe998,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe998,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe998, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe998, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `document-chart-bar` (solid + outline).
@@ -2172,10 +1866,8 @@ class HeroIcons {
   /// Icon(HeroIcons.documentChartBar.resolve(HeroIconStyle.outline));
   /// ```
   static const documentChartBar = HeroIconData(
-    solid: IconData(0xe999,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe999,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe999, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe999, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `document-check` (solid + outline).
@@ -2186,10 +1878,8 @@ class HeroIcons {
   /// Icon(HeroIcons.documentCheck.resolve(HeroIconStyle.outline));
   /// ```
   static const documentCheck = HeroIconData(
-    solid: IconData(0xe99a,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe99a,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe99a, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe99a, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `document-currency-bangladeshi` (solid + outline).
@@ -2200,10 +1890,8 @@ class HeroIcons {
   /// Icon(HeroIcons.documentCurrencyBangladeshi.resolve(HeroIconStyle.outline));
   /// ```
   static const documentCurrencyBangladeshi = HeroIconData(
-    solid: IconData(0xe99b,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe99b,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe99b, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe99b, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `document-currency-dollar` (solid + outline).
@@ -2214,10 +1902,8 @@ class HeroIcons {
   /// Icon(HeroIcons.documentCurrencyDollar.resolve(HeroIconStyle.outline));
   /// ```
   static const documentCurrencyDollar = HeroIconData(
-    solid: IconData(0xe99c,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe99c,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe99c, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe99c, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `document-currency-euro` (solid + outline).
@@ -2228,10 +1914,8 @@ class HeroIcons {
   /// Icon(HeroIcons.documentCurrencyEuro.resolve(HeroIconStyle.outline));
   /// ```
   static const documentCurrencyEuro = HeroIconData(
-    solid: IconData(0xe99d,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe99d,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe99d, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe99d, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `document-currency-pound` (solid + outline).
@@ -2242,10 +1926,8 @@ class HeroIcons {
   /// Icon(HeroIcons.documentCurrencyPound.resolve(HeroIconStyle.outline));
   /// ```
   static const documentCurrencyPound = HeroIconData(
-    solid: IconData(0xe99e,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe99e,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe99e, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe99e, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `document-currency-rupee` (solid + outline).
@@ -2256,10 +1938,8 @@ class HeroIcons {
   /// Icon(HeroIcons.documentCurrencyRupee.resolve(HeroIconStyle.outline));
   /// ```
   static const documentCurrencyRupee = HeroIconData(
-    solid: IconData(0xe99f,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe99f,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe99f, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe99f, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `document-currency-yen` (solid + outline).
@@ -2270,10 +1950,8 @@ class HeroIcons {
   /// Icon(HeroIcons.documentCurrencyYen.resolve(HeroIconStyle.outline));
   /// ```
   static const documentCurrencyYen = HeroIconData(
-    solid: IconData(0xe9a0,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9a0,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9a0, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9a0, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `document-duplicate` (solid + outline).
@@ -2284,10 +1962,8 @@ class HeroIcons {
   /// Icon(HeroIcons.documentDuplicate.resolve(HeroIconStyle.outline));
   /// ```
   static const documentDuplicate = HeroIconData(
-    solid: IconData(0xe9a1,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9a1,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9a1, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9a1, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `document-magnifying-glass` (solid + outline).
@@ -2298,10 +1974,8 @@ class HeroIcons {
   /// Icon(HeroIcons.documentMagnifyingGlass.resolve(HeroIconStyle.outline));
   /// ```
   static const documentMagnifyingGlass = HeroIconData(
-    solid: IconData(0xe9a2,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9a2,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9a2, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9a2, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `document-minus` (solid + outline).
@@ -2312,10 +1986,8 @@ class HeroIcons {
   /// Icon(HeroIcons.documentMinus.resolve(HeroIconStyle.outline));
   /// ```
   static const documentMinus = HeroIconData(
-    solid: IconData(0xe9a3,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9a3,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9a3, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9a3, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `document-plus` (solid + outline).
@@ -2326,10 +1998,8 @@ class HeroIcons {
   /// Icon(HeroIcons.documentPlus.resolve(HeroIconStyle.outline));
   /// ```
   static const documentPlus = HeroIconData(
-    solid: IconData(0xe9a4,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9a4,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9a4, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9a4, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `document-text` (solid + outline).
@@ -2340,10 +2010,8 @@ class HeroIcons {
   /// Icon(HeroIcons.documentText.resolve(HeroIconStyle.outline));
   /// ```
   static const documentText = HeroIconData(
-    solid: IconData(0xe9a5,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9a5,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9a5, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9a5, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `document` (solid + outline).
@@ -2354,10 +2022,8 @@ class HeroIcons {
   /// Icon(HeroIcons.document.resolve(HeroIconStyle.outline));
   /// ```
   static const document = HeroIconData(
-    solid: IconData(0xe9a6,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9a6,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9a6, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9a6, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `ellipsis-horizontal-circle` (solid + outline).
@@ -2368,10 +2034,8 @@ class HeroIcons {
   /// Icon(HeroIcons.ellipsisHorizontalCircle.resolve(HeroIconStyle.outline));
   /// ```
   static const ellipsisHorizontalCircle = HeroIconData(
-    solid: IconData(0xe9a7,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9a7,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9a7, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9a7, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `ellipsis-horizontal` (solid + outline).
@@ -2382,10 +2046,8 @@ class HeroIcons {
   /// Icon(HeroIcons.ellipsisHorizontal.resolve(HeroIconStyle.outline));
   /// ```
   static const ellipsisHorizontal = HeroIconData(
-    solid: IconData(0xe9a8,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9a8,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9a8, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9a8, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `ellipsis-vertical` (solid + outline).
@@ -2396,10 +2058,8 @@ class HeroIcons {
   /// Icon(HeroIcons.ellipsisVertical.resolve(HeroIconStyle.outline));
   /// ```
   static const ellipsisVertical = HeroIconData(
-    solid: IconData(0xe9a9,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9a9,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9a9, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9a9, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `envelope-open` (solid + outline).
@@ -2410,10 +2070,8 @@ class HeroIcons {
   /// Icon(HeroIcons.envelopeOpen.resolve(HeroIconStyle.outline));
   /// ```
   static const envelopeOpen = HeroIconData(
-    solid: IconData(0xe9aa,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9aa,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9aa, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9aa, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `envelope` (solid + outline).
@@ -2424,10 +2082,8 @@ class HeroIcons {
   /// Icon(HeroIcons.envelope.resolve(HeroIconStyle.outline));
   /// ```
   static const envelope = HeroIconData(
-    solid: IconData(0xe9ab,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9ab,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9ab, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9ab, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `equals` (solid + outline).
@@ -2438,10 +2094,8 @@ class HeroIcons {
   /// Icon(HeroIcons.equals.resolve(HeroIconStyle.outline));
   /// ```
   static const equals = HeroIconData(
-    solid: IconData(0xe9ac,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9ac,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9ac, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9ac, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `exclamation-circle` (solid + outline).
@@ -2452,10 +2106,8 @@ class HeroIcons {
   /// Icon(HeroIcons.exclamationCircle.resolve(HeroIconStyle.outline));
   /// ```
   static const exclamationCircle = HeroIconData(
-    solid: IconData(0xe9ad,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9ad,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9ad, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9ad, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `exclamation-triangle` (solid + outline).
@@ -2466,10 +2118,8 @@ class HeroIcons {
   /// Icon(HeroIcons.exclamationTriangle.resolve(HeroIconStyle.outline));
   /// ```
   static const exclamationTriangle = HeroIconData(
-    solid: IconData(0xe9ae,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9ae,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9ae, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9ae, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `eye-dropper` (solid + outline).
@@ -2480,10 +2130,8 @@ class HeroIcons {
   /// Icon(HeroIcons.eyeDropper.resolve(HeroIconStyle.outline));
   /// ```
   static const eyeDropper = HeroIconData(
-    solid: IconData(0xe9af,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9af,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9af, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9af, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `eye-slash` (solid + outline).
@@ -2494,10 +2142,8 @@ class HeroIcons {
   /// Icon(HeroIcons.eyeSlash.resolve(HeroIconStyle.outline));
   /// ```
   static const eyeSlash = HeroIconData(
-    solid: IconData(0xe9b0,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9b0,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9b0, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9b0, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `eye` (solid + outline).
@@ -2508,10 +2154,8 @@ class HeroIcons {
   /// Icon(HeroIcons.eye.resolve(HeroIconStyle.outline));
   /// ```
   static const eye = HeroIconData(
-    solid: IconData(0xe9b1,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9b1,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9b1, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9b1, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `face-frown` (solid + outline).
@@ -2522,10 +2166,8 @@ class HeroIcons {
   /// Icon(HeroIcons.faceFrown.resolve(HeroIconStyle.outline));
   /// ```
   static const faceFrown = HeroIconData(
-    solid: IconData(0xe9b2,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9b2,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9b2, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9b2, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `face-smile` (solid + outline).
@@ -2536,10 +2178,8 @@ class HeroIcons {
   /// Icon(HeroIcons.faceSmile.resolve(HeroIconStyle.outline));
   /// ```
   static const faceSmile = HeroIconData(
-    solid: IconData(0xe9b3,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9b3,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9b3, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9b3, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `film` (solid + outline).
@@ -2550,10 +2190,8 @@ class HeroIcons {
   /// Icon(HeroIcons.film.resolve(HeroIconStyle.outline));
   /// ```
   static const film = HeroIconData(
-    solid: IconData(0xe9b4,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9b4,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9b4, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9b4, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `finger-print` (solid + outline).
@@ -2564,10 +2202,8 @@ class HeroIcons {
   /// Icon(HeroIcons.fingerPrint.resolve(HeroIconStyle.outline));
   /// ```
   static const fingerPrint = HeroIconData(
-    solid: IconData(0xe9b5,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9b5,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9b5, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9b5, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `fire` (solid + outline).
@@ -2578,10 +2214,8 @@ class HeroIcons {
   /// Icon(HeroIcons.fire.resolve(HeroIconStyle.outline));
   /// ```
   static const fire = HeroIconData(
-    solid: IconData(0xe9b6,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9b6,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9b6, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9b6, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `flag` (solid + outline).
@@ -2592,10 +2226,8 @@ class HeroIcons {
   /// Icon(HeroIcons.flag.resolve(HeroIconStyle.outline));
   /// ```
   static const flag = HeroIconData(
-    solid: IconData(0xe9b7,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9b7,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9b7, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9b7, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `folder-arrow-down` (solid + outline).
@@ -2606,10 +2238,8 @@ class HeroIcons {
   /// Icon(HeroIcons.folderArrowDown.resolve(HeroIconStyle.outline));
   /// ```
   static const folderArrowDown = HeroIconData(
-    solid: IconData(0xe9b8,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9b8,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9b8, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9b8, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `folder-minus` (solid + outline).
@@ -2620,10 +2250,8 @@ class HeroIcons {
   /// Icon(HeroIcons.folderMinus.resolve(HeroIconStyle.outline));
   /// ```
   static const folderMinus = HeroIconData(
-    solid: IconData(0xe9b9,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9b9,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9b9, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9b9, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `folder-open` (solid + outline).
@@ -2634,10 +2262,8 @@ class HeroIcons {
   /// Icon(HeroIcons.folderOpen.resolve(HeroIconStyle.outline));
   /// ```
   static const folderOpen = HeroIconData(
-    solid: IconData(0xe9ba,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9ba,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9ba, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9ba, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `folder-plus` (solid + outline).
@@ -2648,10 +2274,8 @@ class HeroIcons {
   /// Icon(HeroIcons.folderPlus.resolve(HeroIconStyle.outline));
   /// ```
   static const folderPlus = HeroIconData(
-    solid: IconData(0xe9bb,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9bb,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9bb, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9bb, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `folder` (solid + outline).
@@ -2662,10 +2286,8 @@ class HeroIcons {
   /// Icon(HeroIcons.folder.resolve(HeroIconStyle.outline));
   /// ```
   static const folder = HeroIconData(
-    solid: IconData(0xe9bc,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9bc,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9bc, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9bc, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `forward` (solid + outline).
@@ -2676,10 +2298,8 @@ class HeroIcons {
   /// Icon(HeroIcons.forward.resolve(HeroIconStyle.outline));
   /// ```
   static const forward = HeroIconData(
-    solid: IconData(0xe9bd,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9bd,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9bd, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9bd, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `funnel` (solid + outline).
@@ -2690,10 +2310,8 @@ class HeroIcons {
   /// Icon(HeroIcons.funnel.resolve(HeroIconStyle.outline));
   /// ```
   static const funnel = HeroIconData(
-    solid: IconData(0xe9be,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9be,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9be, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9be, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `gif` (solid + outline).
@@ -2704,10 +2322,8 @@ class HeroIcons {
   /// Icon(HeroIcons.gif.resolve(HeroIconStyle.outline));
   /// ```
   static const gif = HeroIconData(
-    solid: IconData(0xe9bf,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9bf,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9bf, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9bf, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `gift-top` (solid + outline).
@@ -2718,10 +2334,8 @@ class HeroIcons {
   /// Icon(HeroIcons.giftTop.resolve(HeroIconStyle.outline));
   /// ```
   static const giftTop = HeroIconData(
-    solid: IconData(0xe9c0,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9c0,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9c0, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9c0, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `gift` (solid + outline).
@@ -2732,10 +2346,8 @@ class HeroIcons {
   /// Icon(HeroIcons.gift.resolve(HeroIconStyle.outline));
   /// ```
   static const gift = HeroIconData(
-    solid: IconData(0xe9c1,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9c1,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9c1, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9c1, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `globe-alt` (solid + outline).
@@ -2746,10 +2358,8 @@ class HeroIcons {
   /// Icon(HeroIcons.globeAlt.resolve(HeroIconStyle.outline));
   /// ```
   static const globeAlt = HeroIconData(
-    solid: IconData(0xe9c2,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9c2,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9c2, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9c2, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `globe-americas` (solid + outline).
@@ -2760,10 +2370,8 @@ class HeroIcons {
   /// Icon(HeroIcons.globeAmericas.resolve(HeroIconStyle.outline));
   /// ```
   static const globeAmericas = HeroIconData(
-    solid: IconData(0xe9c3,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9c3,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9c3, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9c3, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `globe-asia-australia` (solid + outline).
@@ -2774,10 +2382,8 @@ class HeroIcons {
   /// Icon(HeroIcons.globeAsiaAustralia.resolve(HeroIconStyle.outline));
   /// ```
   static const globeAsiaAustralia = HeroIconData(
-    solid: IconData(0xe9c4,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9c4,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9c4, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9c4, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `globe-europe-africa` (solid + outline).
@@ -2788,10 +2394,8 @@ class HeroIcons {
   /// Icon(HeroIcons.globeEuropeAfrica.resolve(HeroIconStyle.outline));
   /// ```
   static const globeEuropeAfrica = HeroIconData(
-    solid: IconData(0xe9c5,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9c5,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9c5, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9c5, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `h1` (solid + outline).
@@ -2802,10 +2406,8 @@ class HeroIcons {
   /// Icon(HeroIcons.h1.resolve(HeroIconStyle.outline));
   /// ```
   static const h1 = HeroIconData(
-    solid: IconData(0xe9c6,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9c6,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9c6, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9c6, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `h2` (solid + outline).
@@ -2816,10 +2418,8 @@ class HeroIcons {
   /// Icon(HeroIcons.h2.resolve(HeroIconStyle.outline));
   /// ```
   static const h2 = HeroIconData(
-    solid: IconData(0xe9c7,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9c7,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9c7, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9c7, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `h3` (solid + outline).
@@ -2830,10 +2430,8 @@ class HeroIcons {
   /// Icon(HeroIcons.h3.resolve(HeroIconStyle.outline));
   /// ```
   static const h3 = HeroIconData(
-    solid: IconData(0xe9c8,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9c8,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9c8, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9c8, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `hand-raised` (solid + outline).
@@ -2844,10 +2442,8 @@ class HeroIcons {
   /// Icon(HeroIcons.handRaised.resolve(HeroIconStyle.outline));
   /// ```
   static const handRaised = HeroIconData(
-    solid: IconData(0xe9c9,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9c9,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9c9, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9c9, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `hand-thumb-down` (solid + outline).
@@ -2858,10 +2454,8 @@ class HeroIcons {
   /// Icon(HeroIcons.handThumbDown.resolve(HeroIconStyle.outline));
   /// ```
   static const handThumbDown = HeroIconData(
-    solid: IconData(0xe9ca,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9ca,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9ca, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9ca, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `hand-thumb-up` (solid + outline).
@@ -2872,10 +2466,8 @@ class HeroIcons {
   /// Icon(HeroIcons.handThumbUp.resolve(HeroIconStyle.outline));
   /// ```
   static const handThumbUp = HeroIconData(
-    solid: IconData(0xe9cb,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9cb,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9cb, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9cb, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `hashtag` (solid + outline).
@@ -2886,10 +2478,8 @@ class HeroIcons {
   /// Icon(HeroIcons.hashtag.resolve(HeroIconStyle.outline));
   /// ```
   static const hashtag = HeroIconData(
-    solid: IconData(0xe9cc,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9cc,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9cc, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9cc, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `heart` (solid + outline).
@@ -2900,10 +2490,8 @@ class HeroIcons {
   /// Icon(HeroIcons.heart.resolve(HeroIconStyle.outline));
   /// ```
   static const heart = HeroIconData(
-    solid: IconData(0xe9cd,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9cd,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9cd, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9cd, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `home-modern` (solid + outline).
@@ -2914,10 +2502,8 @@ class HeroIcons {
   /// Icon(HeroIcons.homeModern.resolve(HeroIconStyle.outline));
   /// ```
   static const homeModern = HeroIconData(
-    solid: IconData(0xe9ce,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9ce,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9ce, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9ce, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `home` (solid + outline).
@@ -2928,10 +2514,8 @@ class HeroIcons {
   /// Icon(HeroIcons.home.resolve(HeroIconStyle.outline));
   /// ```
   static const home = HeroIconData(
-    solid: IconData(0xe9cf,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9cf,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9cf, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9cf, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `identification` (solid + outline).
@@ -2942,10 +2526,8 @@ class HeroIcons {
   /// Icon(HeroIcons.identification.resolve(HeroIconStyle.outline));
   /// ```
   static const identification = HeroIconData(
-    solid: IconData(0xe9d0,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9d0,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9d0, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9d0, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `inbox-arrow-down` (solid + outline).
@@ -2956,10 +2538,8 @@ class HeroIcons {
   /// Icon(HeroIcons.inboxArrowDown.resolve(HeroIconStyle.outline));
   /// ```
   static const inboxArrowDown = HeroIconData(
-    solid: IconData(0xe9d1,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9d1,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9d1, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9d1, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `inbox-stack` (solid + outline).
@@ -2970,10 +2550,8 @@ class HeroIcons {
   /// Icon(HeroIcons.inboxStack.resolve(HeroIconStyle.outline));
   /// ```
   static const inboxStack = HeroIconData(
-    solid: IconData(0xe9d2,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9d2,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9d2, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9d2, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `inbox` (solid + outline).
@@ -2984,10 +2562,8 @@ class HeroIcons {
   /// Icon(HeroIcons.inbox.resolve(HeroIconStyle.outline));
   /// ```
   static const inbox = HeroIconData(
-    solid: IconData(0xe9d3,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9d3,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9d3, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9d3, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `information-circle` (solid + outline).
@@ -2998,10 +2574,8 @@ class HeroIcons {
   /// Icon(HeroIcons.informationCircle.resolve(HeroIconStyle.outline));
   /// ```
   static const informationCircle = HeroIconData(
-    solid: IconData(0xe9d4,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9d4,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9d4, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9d4, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `italic` (solid + outline).
@@ -3012,10 +2586,8 @@ class HeroIcons {
   /// Icon(HeroIcons.italic.resolve(HeroIconStyle.outline));
   /// ```
   static const italic = HeroIconData(
-    solid: IconData(0xe9d5,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9d5,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9d5, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9d5, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `key` (solid + outline).
@@ -3026,10 +2598,8 @@ class HeroIcons {
   /// Icon(HeroIcons.key.resolve(HeroIconStyle.outline));
   /// ```
   static const key = HeroIconData(
-    solid: IconData(0xe9d6,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9d6,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9d6, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9d6, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `language` (solid + outline).
@@ -3040,10 +2610,8 @@ class HeroIcons {
   /// Icon(HeroIcons.language.resolve(HeroIconStyle.outline));
   /// ```
   static const language = HeroIconData(
-    solid: IconData(0xe9d7,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9d7,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9d7, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9d7, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `lifebuoy` (solid + outline).
@@ -3054,10 +2622,8 @@ class HeroIcons {
   /// Icon(HeroIcons.lifebuoy.resolve(HeroIconStyle.outline));
   /// ```
   static const lifebuoy = HeroIconData(
-    solid: IconData(0xe9d8,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9d8,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9d8, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9d8, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `light-bulb` (solid + outline).
@@ -3068,10 +2634,8 @@ class HeroIcons {
   /// Icon(HeroIcons.lightBulb.resolve(HeroIconStyle.outline));
   /// ```
   static const lightBulb = HeroIconData(
-    solid: IconData(0xe9d9,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9d9,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9d9, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9d9, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `link-slash` (solid + outline).
@@ -3082,10 +2646,8 @@ class HeroIcons {
   /// Icon(HeroIcons.linkSlash.resolve(HeroIconStyle.outline));
   /// ```
   static const linkSlash = HeroIconData(
-    solid: IconData(0xe9da,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9da,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9da, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9da, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `link` (solid + outline).
@@ -3096,10 +2658,8 @@ class HeroIcons {
   /// Icon(HeroIcons.link.resolve(HeroIconStyle.outline));
   /// ```
   static const link = HeroIconData(
-    solid: IconData(0xe9db,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9db,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9db, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9db, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `list-bullet` (solid + outline).
@@ -3110,10 +2670,8 @@ class HeroIcons {
   /// Icon(HeroIcons.listBullet.resolve(HeroIconStyle.outline));
   /// ```
   static const listBullet = HeroIconData(
-    solid: IconData(0xe9dc,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9dc,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9dc, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9dc, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `lock-closed` (solid + outline).
@@ -3124,10 +2682,8 @@ class HeroIcons {
   /// Icon(HeroIcons.lockClosed.resolve(HeroIconStyle.outline));
   /// ```
   static const lockClosed = HeroIconData(
-    solid: IconData(0xe9dd,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9dd,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9dd, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9dd, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `lock-open` (solid + outline).
@@ -3138,10 +2694,8 @@ class HeroIcons {
   /// Icon(HeroIcons.lockOpen.resolve(HeroIconStyle.outline));
   /// ```
   static const lockOpen = HeroIconData(
-    solid: IconData(0xe9de,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9de,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9de, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9de, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `magnifying-glass-circle` (solid + outline).
@@ -3152,10 +2706,8 @@ class HeroIcons {
   /// Icon(HeroIcons.magnifyingGlassCircle.resolve(HeroIconStyle.outline));
   /// ```
   static const magnifyingGlassCircle = HeroIconData(
-    solid: IconData(0xe9df,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9df,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9df, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9df, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `magnifying-glass-minus` (solid + outline).
@@ -3166,10 +2718,8 @@ class HeroIcons {
   /// Icon(HeroIcons.magnifyingGlassMinus.resolve(HeroIconStyle.outline));
   /// ```
   static const magnifyingGlassMinus = HeroIconData(
-    solid: IconData(0xe9e0,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9e0,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9e0, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9e0, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `magnifying-glass-plus` (solid + outline).
@@ -3180,10 +2730,8 @@ class HeroIcons {
   /// Icon(HeroIcons.magnifyingGlassPlus.resolve(HeroIconStyle.outline));
   /// ```
   static const magnifyingGlassPlus = HeroIconData(
-    solid: IconData(0xe9e1,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9e1,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9e1, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9e1, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `magnifying-glass` (solid + outline).
@@ -3194,10 +2742,8 @@ class HeroIcons {
   /// Icon(HeroIcons.magnifyingGlass.resolve(HeroIconStyle.outline));
   /// ```
   static const magnifyingGlass = HeroIconData(
-    solid: IconData(0xe9e2,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9e2,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9e2, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9e2, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `map-pin` (solid + outline).
@@ -3208,10 +2754,8 @@ class HeroIcons {
   /// Icon(HeroIcons.mapPin.resolve(HeroIconStyle.outline));
   /// ```
   static const mapPin = HeroIconData(
-    solid: IconData(0xe9e3,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9e3,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9e3, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9e3, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `map` (solid + outline).
@@ -3222,10 +2766,8 @@ class HeroIcons {
   /// Icon(HeroIcons.map.resolve(HeroIconStyle.outline));
   /// ```
   static const map = HeroIconData(
-    solid: IconData(0xe9e4,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9e4,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9e4, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9e4, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `megaphone` (solid + outline).
@@ -3236,10 +2778,8 @@ class HeroIcons {
   /// Icon(HeroIcons.megaphone.resolve(HeroIconStyle.outline));
   /// ```
   static const megaphone = HeroIconData(
-    solid: IconData(0xe9e5,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9e5,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9e5, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9e5, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `microphone` (solid + outline).
@@ -3250,10 +2790,8 @@ class HeroIcons {
   /// Icon(HeroIcons.microphone.resolve(HeroIconStyle.outline));
   /// ```
   static const microphone = HeroIconData(
-    solid: IconData(0xe9e6,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9e6,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9e6, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9e6, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `minus-circle` (solid + outline).
@@ -3264,10 +2802,8 @@ class HeroIcons {
   /// Icon(HeroIcons.minusCircle.resolve(HeroIconStyle.outline));
   /// ```
   static const minusCircle = HeroIconData(
-    solid: IconData(0xe9e7,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9e7,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9e7, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9e7, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `minus-small` (solid + outline).
@@ -3278,10 +2814,8 @@ class HeroIcons {
   /// Icon(HeroIcons.minusSmall.resolve(HeroIconStyle.outline));
   /// ```
   static const minusSmall = HeroIconData(
-    solid: IconData(0xe9e8,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9e8,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9e8, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9e8, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `minus` (solid + outline).
@@ -3292,10 +2826,8 @@ class HeroIcons {
   /// Icon(HeroIcons.minus.resolve(HeroIconStyle.outline));
   /// ```
   static const minus = HeroIconData(
-    solid: IconData(0xe9e9,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9e9,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9e9, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9e9, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `moon` (solid + outline).
@@ -3306,10 +2838,8 @@ class HeroIcons {
   /// Icon(HeroIcons.moon.resolve(HeroIconStyle.outline));
   /// ```
   static const moon = HeroIconData(
-    solid: IconData(0xe9ea,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9ea,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9ea, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9ea, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `musical-note` (solid + outline).
@@ -3320,10 +2850,8 @@ class HeroIcons {
   /// Icon(HeroIcons.musicalNote.resolve(HeroIconStyle.outline));
   /// ```
   static const musicalNote = HeroIconData(
-    solid: IconData(0xe9eb,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9eb,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9eb, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9eb, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `newspaper` (solid + outline).
@@ -3334,10 +2862,8 @@ class HeroIcons {
   /// Icon(HeroIcons.newspaper.resolve(HeroIconStyle.outline));
   /// ```
   static const newspaper = HeroIconData(
-    solid: IconData(0xe9ec,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9ec,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9ec, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9ec, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `no-symbol` (solid + outline).
@@ -3348,10 +2874,8 @@ class HeroIcons {
   /// Icon(HeroIcons.noSymbol.resolve(HeroIconStyle.outline));
   /// ```
   static const noSymbol = HeroIconData(
-    solid: IconData(0xe9ed,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9ed,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9ed, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9ed, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `numbered-list` (solid + outline).
@@ -3362,10 +2886,8 @@ class HeroIcons {
   /// Icon(HeroIcons.numberedList.resolve(HeroIconStyle.outline));
   /// ```
   static const numberedList = HeroIconData(
-    solid: IconData(0xe9ee,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9ee,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9ee, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9ee, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `paint-brush` (solid + outline).
@@ -3376,10 +2898,8 @@ class HeroIcons {
   /// Icon(HeroIcons.paintBrush.resolve(HeroIconStyle.outline));
   /// ```
   static const paintBrush = HeroIconData(
-    solid: IconData(0xe9ef,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9ef,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9ef, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9ef, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `paper-airplane` (solid + outline).
@@ -3390,10 +2910,8 @@ class HeroIcons {
   /// Icon(HeroIcons.paperAirplane.resolve(HeroIconStyle.outline));
   /// ```
   static const paperAirplane = HeroIconData(
-    solid: IconData(0xe9f0,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9f0,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9f0, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9f0, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `paper-clip` (solid + outline).
@@ -3404,10 +2922,8 @@ class HeroIcons {
   /// Icon(HeroIcons.paperClip.resolve(HeroIconStyle.outline));
   /// ```
   static const paperClip = HeroIconData(
-    solid: IconData(0xe9f1,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9f1,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9f1, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9f1, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `pause-circle` (solid + outline).
@@ -3418,10 +2934,8 @@ class HeroIcons {
   /// Icon(HeroIcons.pauseCircle.resolve(HeroIconStyle.outline));
   /// ```
   static const pauseCircle = HeroIconData(
-    solid: IconData(0xe9f2,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9f2,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9f2, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9f2, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `pause` (solid + outline).
@@ -3432,10 +2946,8 @@ class HeroIcons {
   /// Icon(HeroIcons.pause.resolve(HeroIconStyle.outline));
   /// ```
   static const pause = HeroIconData(
-    solid: IconData(0xe9f3,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9f3,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9f3, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9f3, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `pencil-square` (solid + outline).
@@ -3446,10 +2958,8 @@ class HeroIcons {
   /// Icon(HeroIcons.pencilSquare.resolve(HeroIconStyle.outline));
   /// ```
   static const pencilSquare = HeroIconData(
-    solid: IconData(0xe9f4,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9f4,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9f4, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9f4, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `pencil` (solid + outline).
@@ -3460,10 +2970,8 @@ class HeroIcons {
   /// Icon(HeroIcons.pencil.resolve(HeroIconStyle.outline));
   /// ```
   static const pencil = HeroIconData(
-    solid: IconData(0xe9f5,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9f5,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9f5, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9f5, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `percent-badge` (solid + outline).
@@ -3474,10 +2982,8 @@ class HeroIcons {
   /// Icon(HeroIcons.percentBadge.resolve(HeroIconStyle.outline));
   /// ```
   static const percentBadge = HeroIconData(
-    solid: IconData(0xe9f6,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9f6,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9f6, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9f6, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `phone-arrow-down-left` (solid + outline).
@@ -3488,10 +2994,8 @@ class HeroIcons {
   /// Icon(HeroIcons.phoneArrowDownLeft.resolve(HeroIconStyle.outline));
   /// ```
   static const phoneArrowDownLeft = HeroIconData(
-    solid: IconData(0xe9f7,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9f7,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9f7, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9f7, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `phone-arrow-up-right` (solid + outline).
@@ -3502,10 +3006,8 @@ class HeroIcons {
   /// Icon(HeroIcons.phoneArrowUpRight.resolve(HeroIconStyle.outline));
   /// ```
   static const phoneArrowUpRight = HeroIconData(
-    solid: IconData(0xe9f8,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9f8,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9f8, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9f8, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `phone-x-mark` (solid + outline).
@@ -3516,10 +3018,8 @@ class HeroIcons {
   /// Icon(HeroIcons.phoneXMark.resolve(HeroIconStyle.outline));
   /// ```
   static const phoneXMark = HeroIconData(
-    solid: IconData(0xe9f9,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9f9,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9f9, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9f9, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `phone` (solid + outline).
@@ -3530,10 +3030,8 @@ class HeroIcons {
   /// Icon(HeroIcons.phone.resolve(HeroIconStyle.outline));
   /// ```
   static const phone = HeroIconData(
-    solid: IconData(0xe9fa,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9fa,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9fa, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9fa, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `photo` (solid + outline).
@@ -3544,10 +3042,8 @@ class HeroIcons {
   /// Icon(HeroIcons.photo.resolve(HeroIconStyle.outline));
   /// ```
   static const photo = HeroIconData(
-    solid: IconData(0xe9fb,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9fb,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9fb, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9fb, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `play-circle` (solid + outline).
@@ -3558,10 +3054,8 @@ class HeroIcons {
   /// Icon(HeroIcons.playCircle.resolve(HeroIconStyle.outline));
   /// ```
   static const playCircle = HeroIconData(
-    solid: IconData(0xe9fc,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9fc,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9fc, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9fc, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `play-pause` (solid + outline).
@@ -3572,10 +3066,8 @@ class HeroIcons {
   /// Icon(HeroIcons.playPause.resolve(HeroIconStyle.outline));
   /// ```
   static const playPause = HeroIconData(
-    solid: IconData(0xe9fd,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9fd,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9fd, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9fd, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `play` (solid + outline).
@@ -3586,10 +3078,8 @@ class HeroIcons {
   /// Icon(HeroIcons.play.resolve(HeroIconStyle.outline));
   /// ```
   static const play = HeroIconData(
-    solid: IconData(0xe9fe,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9fe,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9fe, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9fe, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `plus-circle` (solid + outline).
@@ -3600,10 +3090,8 @@ class HeroIcons {
   /// Icon(HeroIcons.plusCircle.resolve(HeroIconStyle.outline));
   /// ```
   static const plusCircle = HeroIconData(
-    solid: IconData(0xe9ff,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xe9ff,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xe9ff, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xe9ff, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `plus-small` (solid + outline).
@@ -3614,10 +3102,8 @@ class HeroIcons {
   /// Icon(HeroIcons.plusSmall.resolve(HeroIconStyle.outline));
   /// ```
   static const plusSmall = HeroIconData(
-    solid: IconData(0xea00,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea00,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea00, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea00, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `plus` (solid + outline).
@@ -3628,10 +3114,8 @@ class HeroIcons {
   /// Icon(HeroIcons.plus.resolve(HeroIconStyle.outline));
   /// ```
   static const plus = HeroIconData(
-    solid: IconData(0xea01,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea01,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea01, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea01, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `power` (solid + outline).
@@ -3642,10 +3126,8 @@ class HeroIcons {
   /// Icon(HeroIcons.power.resolve(HeroIconStyle.outline));
   /// ```
   static const power = HeroIconData(
-    solid: IconData(0xea02,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea02,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea02, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea02, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `presentation-chart-bar` (solid + outline).
@@ -3656,10 +3138,8 @@ class HeroIcons {
   /// Icon(HeroIcons.presentationChartBar.resolve(HeroIconStyle.outline));
   /// ```
   static const presentationChartBar = HeroIconData(
-    solid: IconData(0xea03,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea03,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea03, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea03, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `presentation-chart-line` (solid + outline).
@@ -3670,10 +3150,8 @@ class HeroIcons {
   /// Icon(HeroIcons.presentationChartLine.resolve(HeroIconStyle.outline));
   /// ```
   static const presentationChartLine = HeroIconData(
-    solid: IconData(0xea04,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea04,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea04, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea04, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `printer` (solid + outline).
@@ -3684,10 +3162,8 @@ class HeroIcons {
   /// Icon(HeroIcons.printer.resolve(HeroIconStyle.outline));
   /// ```
   static const printer = HeroIconData(
-    solid: IconData(0xea05,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea05,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea05, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea05, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `puzzle-piece` (solid + outline).
@@ -3698,10 +3174,8 @@ class HeroIcons {
   /// Icon(HeroIcons.puzzlePiece.resolve(HeroIconStyle.outline));
   /// ```
   static const puzzlePiece = HeroIconData(
-    solid: IconData(0xea06,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea06,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea06, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea06, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `qr-code` (solid + outline).
@@ -3712,10 +3186,8 @@ class HeroIcons {
   /// Icon(HeroIcons.qrCode.resolve(HeroIconStyle.outline));
   /// ```
   static const qrCode = HeroIconData(
-    solid: IconData(0xea07,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea07,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea07, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea07, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `question-mark-circle` (solid + outline).
@@ -3726,10 +3198,8 @@ class HeroIcons {
   /// Icon(HeroIcons.questionMarkCircle.resolve(HeroIconStyle.outline));
   /// ```
   static const questionMarkCircle = HeroIconData(
-    solid: IconData(0xea08,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea08,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea08, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea08, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `queue-list` (solid + outline).
@@ -3740,10 +3210,8 @@ class HeroIcons {
   /// Icon(HeroIcons.queueList.resolve(HeroIconStyle.outline));
   /// ```
   static const queueList = HeroIconData(
-    solid: IconData(0xea09,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea09,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea09, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea09, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `radio` (solid + outline).
@@ -3754,10 +3222,8 @@ class HeroIcons {
   /// Icon(HeroIcons.radio.resolve(HeroIconStyle.outline));
   /// ```
   static const radio = HeroIconData(
-    solid: IconData(0xea0a,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea0a,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea0a, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea0a, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `receipt-percent` (solid + outline).
@@ -3768,10 +3234,8 @@ class HeroIcons {
   /// Icon(HeroIcons.receiptPercent.resolve(HeroIconStyle.outline));
   /// ```
   static const receiptPercent = HeroIconData(
-    solid: IconData(0xea0b,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea0b,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea0b, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea0b, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `receipt-refund` (solid + outline).
@@ -3782,10 +3246,8 @@ class HeroIcons {
   /// Icon(HeroIcons.receiptRefund.resolve(HeroIconStyle.outline));
   /// ```
   static const receiptRefund = HeroIconData(
-    solid: IconData(0xea0c,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea0c,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea0c, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea0c, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `rectangle-group` (solid + outline).
@@ -3796,10 +3258,8 @@ class HeroIcons {
   /// Icon(HeroIcons.rectangleGroup.resolve(HeroIconStyle.outline));
   /// ```
   static const rectangleGroup = HeroIconData(
-    solid: IconData(0xea0d,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea0d,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea0d, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea0d, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `rectangle-stack` (solid + outline).
@@ -3810,10 +3270,8 @@ class HeroIcons {
   /// Icon(HeroIcons.rectangleStack.resolve(HeroIconStyle.outline));
   /// ```
   static const rectangleStack = HeroIconData(
-    solid: IconData(0xea0e,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea0e,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea0e, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea0e, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `rocket-launch` (solid + outline).
@@ -3824,10 +3282,8 @@ class HeroIcons {
   /// Icon(HeroIcons.rocketLaunch.resolve(HeroIconStyle.outline));
   /// ```
   static const rocketLaunch = HeroIconData(
-    solid: IconData(0xea0f,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea0f,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea0f, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea0f, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `rss` (solid + outline).
@@ -3838,10 +3294,8 @@ class HeroIcons {
   /// Icon(HeroIcons.rss.resolve(HeroIconStyle.outline));
   /// ```
   static const rss = HeroIconData(
-    solid: IconData(0xea10,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea10,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea10, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea10, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `scale` (solid + outline).
@@ -3852,10 +3306,8 @@ class HeroIcons {
   /// Icon(HeroIcons.scale.resolve(HeroIconStyle.outline));
   /// ```
   static const scale = HeroIconData(
-    solid: IconData(0xea11,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea11,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea11, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea11, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `scissors` (solid + outline).
@@ -3866,10 +3318,8 @@ class HeroIcons {
   /// Icon(HeroIcons.scissors.resolve(HeroIconStyle.outline));
   /// ```
   static const scissors = HeroIconData(
-    solid: IconData(0xea12,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea12,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea12, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea12, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `server-stack` (solid + outline).
@@ -3880,10 +3330,8 @@ class HeroIcons {
   /// Icon(HeroIcons.serverStack.resolve(HeroIconStyle.outline));
   /// ```
   static const serverStack = HeroIconData(
-    solid: IconData(0xea13,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea13,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea13, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea13, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `server` (solid + outline).
@@ -3894,10 +3342,8 @@ class HeroIcons {
   /// Icon(HeroIcons.server.resolve(HeroIconStyle.outline));
   /// ```
   static const server = HeroIconData(
-    solid: IconData(0xea14,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea14,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea14, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea14, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `share` (solid + outline).
@@ -3908,10 +3354,8 @@ class HeroIcons {
   /// Icon(HeroIcons.share.resolve(HeroIconStyle.outline));
   /// ```
   static const share = HeroIconData(
-    solid: IconData(0xea15,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea15,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea15, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea15, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `shield-check` (solid + outline).
@@ -3922,10 +3366,8 @@ class HeroIcons {
   /// Icon(HeroIcons.shieldCheck.resolve(HeroIconStyle.outline));
   /// ```
   static const shieldCheck = HeroIconData(
-    solid: IconData(0xea16,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea16,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea16, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea16, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `shield-exclamation` (solid + outline).
@@ -3936,10 +3378,8 @@ class HeroIcons {
   /// Icon(HeroIcons.shieldExclamation.resolve(HeroIconStyle.outline));
   /// ```
   static const shieldExclamation = HeroIconData(
-    solid: IconData(0xea17,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea17,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea17, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea17, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `shopping-bag` (solid + outline).
@@ -3950,10 +3390,8 @@ class HeroIcons {
   /// Icon(HeroIcons.shoppingBag.resolve(HeroIconStyle.outline));
   /// ```
   static const shoppingBag = HeroIconData(
-    solid: IconData(0xea18,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea18,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea18, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea18, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `shopping-cart` (solid + outline).
@@ -3964,10 +3402,8 @@ class HeroIcons {
   /// Icon(HeroIcons.shoppingCart.resolve(HeroIconStyle.outline));
   /// ```
   static const shoppingCart = HeroIconData(
-    solid: IconData(0xea19,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea19,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea19, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea19, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `signal-slash` (solid + outline).
@@ -3978,10 +3414,8 @@ class HeroIcons {
   /// Icon(HeroIcons.signalSlash.resolve(HeroIconStyle.outline));
   /// ```
   static const signalSlash = HeroIconData(
-    solid: IconData(0xea1a,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea1a,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea1a, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea1a, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `signal` (solid + outline).
@@ -3992,10 +3426,8 @@ class HeroIcons {
   /// Icon(HeroIcons.signal.resolve(HeroIconStyle.outline));
   /// ```
   static const signal = HeroIconData(
-    solid: IconData(0xea1b,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea1b,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea1b, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea1b, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `slash` (solid + outline).
@@ -4006,10 +3438,8 @@ class HeroIcons {
   /// Icon(HeroIcons.slash.resolve(HeroIconStyle.outline));
   /// ```
   static const slash = HeroIconData(
-    solid: IconData(0xea1c,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea1c,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea1c, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea1c, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `sparkles` (solid + outline).
@@ -4020,10 +3450,8 @@ class HeroIcons {
   /// Icon(HeroIcons.sparkles.resolve(HeroIconStyle.outline));
   /// ```
   static const sparkles = HeroIconData(
-    solid: IconData(0xea1d,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea1d,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea1d, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea1d, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `speaker-wave` (solid + outline).
@@ -4034,10 +3462,8 @@ class HeroIcons {
   /// Icon(HeroIcons.speakerWave.resolve(HeroIconStyle.outline));
   /// ```
   static const speakerWave = HeroIconData(
-    solid: IconData(0xea1e,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea1e,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea1e, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea1e, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `speaker-x-mark` (solid + outline).
@@ -4048,10 +3474,8 @@ class HeroIcons {
   /// Icon(HeroIcons.speakerXMark.resolve(HeroIconStyle.outline));
   /// ```
   static const speakerXMark = HeroIconData(
-    solid: IconData(0xea1f,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea1f,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea1f, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea1f, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `square-2-stack` (solid + outline).
@@ -4062,10 +3486,8 @@ class HeroIcons {
   /// Icon(HeroIcons.square2Stack.resolve(HeroIconStyle.outline));
   /// ```
   static const square2Stack = HeroIconData(
-    solid: IconData(0xea20,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea20,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea20, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea20, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `square-3-stack-3d` (solid + outline).
@@ -4076,10 +3498,8 @@ class HeroIcons {
   /// Icon(HeroIcons.square3Stack3d.resolve(HeroIconStyle.outline));
   /// ```
   static const square3Stack3d = HeroIconData(
-    solid: IconData(0xea21,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea21,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea21, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea21, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `squares-2x2` (solid + outline).
@@ -4090,10 +3510,8 @@ class HeroIcons {
   /// Icon(HeroIcons.squares2x2.resolve(HeroIconStyle.outline));
   /// ```
   static const squares2x2 = HeroIconData(
-    solid: IconData(0xea22,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea22,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea22, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea22, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `squares-plus` (solid + outline).
@@ -4104,10 +3522,8 @@ class HeroIcons {
   /// Icon(HeroIcons.squaresPlus.resolve(HeroIconStyle.outline));
   /// ```
   static const squaresPlus = HeroIconData(
-    solid: IconData(0xea23,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea23,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea23, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea23, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `star` (solid + outline).
@@ -4118,10 +3534,8 @@ class HeroIcons {
   /// Icon(HeroIcons.star.resolve(HeroIconStyle.outline));
   /// ```
   static const star = HeroIconData(
-    solid: IconData(0xea24,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea24,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea24, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea24, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `stop-circle` (solid + outline).
@@ -4132,10 +3546,8 @@ class HeroIcons {
   /// Icon(HeroIcons.stopCircle.resolve(HeroIconStyle.outline));
   /// ```
   static const stopCircle = HeroIconData(
-    solid: IconData(0xea25,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea25,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea25, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea25, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `stop` (solid + outline).
@@ -4146,10 +3558,8 @@ class HeroIcons {
   /// Icon(HeroIcons.stop.resolve(HeroIconStyle.outline));
   /// ```
   static const stop = HeroIconData(
-    solid: IconData(0xea26,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea26,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea26, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea26, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `strikethrough` (solid + outline).
@@ -4160,10 +3570,8 @@ class HeroIcons {
   /// Icon(HeroIcons.strikethrough.resolve(HeroIconStyle.outline));
   /// ```
   static const strikethrough = HeroIconData(
-    solid: IconData(0xea27,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea27,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea27, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea27, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `sun` (solid + outline).
@@ -4174,10 +3582,8 @@ class HeroIcons {
   /// Icon(HeroIcons.sun.resolve(HeroIconStyle.outline));
   /// ```
   static const sun = HeroIconData(
-    solid: IconData(0xea28,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea28,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea28, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea28, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `swatch` (solid + outline).
@@ -4188,10 +3594,8 @@ class HeroIcons {
   /// Icon(HeroIcons.swatch.resolve(HeroIconStyle.outline));
   /// ```
   static const swatch = HeroIconData(
-    solid: IconData(0xea29,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea29,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea29, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea29, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `table-cells` (solid + outline).
@@ -4202,10 +3606,8 @@ class HeroIcons {
   /// Icon(HeroIcons.tableCells.resolve(HeroIconStyle.outline));
   /// ```
   static const tableCells = HeroIconData(
-    solid: IconData(0xea2a,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea2a,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea2a, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea2a, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `tag` (solid + outline).
@@ -4216,10 +3618,8 @@ class HeroIcons {
   /// Icon(HeroIcons.tag.resolve(HeroIconStyle.outline));
   /// ```
   static const tag = HeroIconData(
-    solid: IconData(0xea2b,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea2b,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea2b, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea2b, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `ticket` (solid + outline).
@@ -4230,10 +3630,8 @@ class HeroIcons {
   /// Icon(HeroIcons.ticket.resolve(HeroIconStyle.outline));
   /// ```
   static const ticket = HeroIconData(
-    solid: IconData(0xea2c,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea2c,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea2c, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea2c, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `trash` (solid + outline).
@@ -4244,10 +3642,8 @@ class HeroIcons {
   /// Icon(HeroIcons.trash.resolve(HeroIconStyle.outline));
   /// ```
   static const trash = HeroIconData(
-    solid: IconData(0xea2d,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea2d,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea2d, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea2d, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `trophy` (solid + outline).
@@ -4258,10 +3654,8 @@ class HeroIcons {
   /// Icon(HeroIcons.trophy.resolve(HeroIconStyle.outline));
   /// ```
   static const trophy = HeroIconData(
-    solid: IconData(0xea2e,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea2e,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea2e, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea2e, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `truck` (solid + outline).
@@ -4272,10 +3666,8 @@ class HeroIcons {
   /// Icon(HeroIcons.truck.resolve(HeroIconStyle.outline));
   /// ```
   static const truck = HeroIconData(
-    solid: IconData(0xea2f,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea2f,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea2f, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea2f, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `tv` (solid + outline).
@@ -4286,10 +3678,8 @@ class HeroIcons {
   /// Icon(HeroIcons.tv.resolve(HeroIconStyle.outline));
   /// ```
   static const tv = HeroIconData(
-    solid: IconData(0xea30,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea30,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea30, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea30, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `underline` (solid + outline).
@@ -4300,10 +3690,8 @@ class HeroIcons {
   /// Icon(HeroIcons.underline.resolve(HeroIconStyle.outline));
   /// ```
   static const underline = HeroIconData(
-    solid: IconData(0xea31,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea31,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea31, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea31, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `user-circle` (solid + outline).
@@ -4314,10 +3702,8 @@ class HeroIcons {
   /// Icon(HeroIcons.userCircle.resolve(HeroIconStyle.outline));
   /// ```
   static const userCircle = HeroIconData(
-    solid: IconData(0xea32,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea32,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea32, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea32, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `user-group` (solid + outline).
@@ -4328,10 +3714,8 @@ class HeroIcons {
   /// Icon(HeroIcons.userGroup.resolve(HeroIconStyle.outline));
   /// ```
   static const userGroup = HeroIconData(
-    solid: IconData(0xea33,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea33,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea33, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea33, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `user-minus` (solid + outline).
@@ -4342,10 +3726,8 @@ class HeroIcons {
   /// Icon(HeroIcons.userMinus.resolve(HeroIconStyle.outline));
   /// ```
   static const userMinus = HeroIconData(
-    solid: IconData(0xea34,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea34,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea34, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea34, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `user-plus` (solid + outline).
@@ -4356,10 +3738,8 @@ class HeroIcons {
   /// Icon(HeroIcons.userPlus.resolve(HeroIconStyle.outline));
   /// ```
   static const userPlus = HeroIconData(
-    solid: IconData(0xea35,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea35,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea35, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea35, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `user` (solid + outline).
@@ -4370,10 +3750,8 @@ class HeroIcons {
   /// Icon(HeroIcons.user.resolve(HeroIconStyle.outline));
   /// ```
   static const user = HeroIconData(
-    solid: IconData(0xea36,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea36,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea36, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea36, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `users` (solid + outline).
@@ -4384,10 +3762,8 @@ class HeroIcons {
   /// Icon(HeroIcons.users.resolve(HeroIconStyle.outline));
   /// ```
   static const users = HeroIconData(
-    solid: IconData(0xea37,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea37,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea37, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea37, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `variable` (solid + outline).
@@ -4398,10 +3774,8 @@ class HeroIcons {
   /// Icon(HeroIcons.variable.resolve(HeroIconStyle.outline));
   /// ```
   static const variable = HeroIconData(
-    solid: IconData(0xea38,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea38,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea38, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea38, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `video-camera-slash` (solid + outline).
@@ -4412,10 +3786,8 @@ class HeroIcons {
   /// Icon(HeroIcons.videoCameraSlash.resolve(HeroIconStyle.outline));
   /// ```
   static const videoCameraSlash = HeroIconData(
-    solid: IconData(0xea39,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea39,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea39, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea39, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `video-camera` (solid + outline).
@@ -4426,10 +3798,8 @@ class HeroIcons {
   /// Icon(HeroIcons.videoCamera.resolve(HeroIconStyle.outline));
   /// ```
   static const videoCamera = HeroIconData(
-    solid: IconData(0xea3a,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea3a,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea3a, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea3a, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `view-columns` (solid + outline).
@@ -4440,10 +3810,8 @@ class HeroIcons {
   /// Icon(HeroIcons.viewColumns.resolve(HeroIconStyle.outline));
   /// ```
   static const viewColumns = HeroIconData(
-    solid: IconData(0xea3b,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea3b,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea3b, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea3b, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `viewfinder-circle` (solid + outline).
@@ -4454,10 +3822,8 @@ class HeroIcons {
   /// Icon(HeroIcons.viewfinderCircle.resolve(HeroIconStyle.outline));
   /// ```
   static const viewfinderCircle = HeroIconData(
-    solid: IconData(0xea3c,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea3c,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea3c, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea3c, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `wallet` (solid + outline).
@@ -4468,10 +3834,8 @@ class HeroIcons {
   /// Icon(HeroIcons.wallet.resolve(HeroIconStyle.outline));
   /// ```
   static const wallet = HeroIconData(
-    solid: IconData(0xea3d,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea3d,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea3d, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea3d, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `wifi` (solid + outline).
@@ -4482,10 +3846,8 @@ class HeroIcons {
   /// Icon(HeroIcons.wifi.resolve(HeroIconStyle.outline));
   /// ```
   static const wifi = HeroIconData(
-    solid: IconData(0xea3e,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea3e,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea3e, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea3e, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `window` (solid + outline).
@@ -4496,10 +3858,8 @@ class HeroIcons {
   /// Icon(HeroIcons.window.resolve(HeroIconStyle.outline));
   /// ```
   static const window = HeroIconData(
-    solid: IconData(0xea3f,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea3f,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea3f, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea3f, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `wrench-screwdriver` (solid + outline).
@@ -4510,10 +3870,8 @@ class HeroIcons {
   /// Icon(HeroIcons.wrenchScrewdriver.resolve(HeroIconStyle.outline));
   /// ```
   static const wrenchScrewdriver = HeroIconData(
-    solid: IconData(0xea40,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea40,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea40, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea40, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `wrench` (solid + outline).
@@ -4524,10 +3882,8 @@ class HeroIcons {
   /// Icon(HeroIcons.wrench.resolve(HeroIconStyle.outline));
   /// ```
   static const wrench = HeroIconData(
-    solid: IconData(0xea41,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea41,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea41, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea41, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `x-circle` (solid + outline).
@@ -4538,10 +3894,8 @@ class HeroIcons {
   /// Icon(HeroIcons.xCircle.resolve(HeroIconStyle.outline));
   /// ```
   static const xCircle = HeroIconData(
-    solid: IconData(0xea42,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea42,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea42, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea42, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// Heroicon `x-mark` (solid + outline).
@@ -4552,10 +3906,8 @@ class HeroIcons {
   /// Icon(HeroIcons.xMark.resolve(HeroIconStyle.outline));
   /// ```
   static const xMark = HeroIconData(
-    solid: IconData(0xea43,
-        fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
-    outline: IconData(0xea43,
-        fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
+    solid: IconData(0xea43, fontFamily: _fontFamilySolid, fontPackage: _fontPackage),
+    outline: IconData(0xea43, fontFamily: _fontFamilyOutline, fontPackage: _fontPackage),
   );
 
   /// All Heroicons in a map: {name: HeroIconData}
