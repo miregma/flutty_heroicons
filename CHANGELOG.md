@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.1.0
+- Solid iconset has been replaces, SVG fixes
+
 ## 1.0.10
 - _port postfix was removed from gentool
 
