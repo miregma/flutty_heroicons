@@ -23,13 +23,13 @@ class Example extends StatelessWidget {
     return const Row(
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
-        Icon(
+        HeroIcon(
           HeroIcons.academicCap.solid,
           size: 32,
           color: Colors.blue,
         ),
         SizedBox(width: 16),
-        Icon(
+        HeroIcon(
           HeroIcons.academicCap.outline,
           size: 32,
           color: Colors.red,
@@ -43,7 +43,7 @@ class Example extends StatelessWidget {
 ### Switching dynamically
 
 ```dart
-Icon(
+HeroIcon(
   HeroIcons.academicCap.resolve(HeroIconStyle.outline),
   size: 28,
   color: Colors.green,

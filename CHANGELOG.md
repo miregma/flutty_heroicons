@@ -1,6 +1,9 @@
 # Changelog
 
-## 1.0.6
+## 1.0.8
+- HeroIcon widget added.
+
+## 1.0.7
 - Format fixes
 - Website fixed
 
@@ -9,7 +12,6 @@
 
 ## 1.0.4
 - GitHub Repository added
-
 
 ## 1.0.3
 - Exposed filename changed to flutty_heroicons.dart
