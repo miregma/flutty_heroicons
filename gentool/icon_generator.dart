@@ -64,7 +64,7 @@ void main() async {
   buffer.writeln(
       "  static const String _fontFamilyOutline = 'HeroIconsOutline';");
   buffer
-      .writeln("  static const String _fontPackage = 'flutty_heroicons_port';");
+      .writeln("  static const String _fontPackage = 'flutty_heroicons';");
   buffer.writeln('');
 
   final iconNames = <String>[];

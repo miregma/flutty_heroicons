@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.10
+- _port postfix was removed from gentool
+
 ## 1.0.9
 - _port postfix was removed from packages
 
