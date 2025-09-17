@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.1.2
+- Platforms added to pubspec
+
 ## 1.1.1
 - Solid ttf file has been renamed
 

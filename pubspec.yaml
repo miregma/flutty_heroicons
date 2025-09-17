@@ -1,6 +1,6 @@
 name: flutty_heroicons
 description: "A Flutter port of HeroIcons — beautiful hand-crafted SVG icons by Tailwind, packaged for use with IconData."
-version: 1.1.1
+version: 1.1.2
 homepage: https://fluttyui.com
 repository: https://github.com/miregma/flutty_heroicons
 issue_tracker: https://github.com/miregma/flutty_heroicons/issues
@@ -33,3 +33,7 @@ topics:
   - flutter-ui
   - design
   - tailwind
+
+platforms:
+  android:
+  ios:
